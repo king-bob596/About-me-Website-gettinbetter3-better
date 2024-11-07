@@ -1,0 +1,20 @@
+.header{color: maroon;
+    position: absolute;
+   
+    }
+    
+    .name{ color: #e66bf7;
+    position: relative;
+   
+ 
+    }
+    h3{ 
+
+        position: relative;
+    }
+    P{
+        background-color: aquamarine;
+        float: inline-end;
+        border:3px solid black;
+    }
+    body{background-color: rgb(255, 35, 207);}
